@@ -83,6 +83,7 @@ hr {
 }
 button {
   border-radius: 34px;
+  border: none;
   background: #ffbc0f;
   position: absolute;
   bottom: -34px;
