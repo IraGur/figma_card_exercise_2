@@ -92,6 +92,9 @@ button {
   height: 68px;
   color: #253868;
 }
+button:hover {
+cursor: pointer;
+}
 span {
   justify-content: center;
   font-family: Noto Sans Symbols;
